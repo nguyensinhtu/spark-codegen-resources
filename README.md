@@ -3,3 +3,6 @@ A list of resources, papers to understand spark's tungsten engine, code generati
 
 ## websites
 https://databricks.com/glossary/tungsten
+
+## Slides
+https://www.slideshare.net/SparkSummit/deep-dive-into-project-tungsten-josh-rosen
